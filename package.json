@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^3.1.1",
+    "@metaplex-foundation/umi": "^0.8.10",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.8.10",
+    "@metaplex-foundation/umi-web3js-adapters": "^0.8.10",
+    "@solana/web3.js": "^1.87.2",
+    "arweave": "^1.14.4",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "static-resource": "^0.1.1",
+    "url": "^0.11.3"
+  }
+}
